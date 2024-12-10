@@ -1,4 +1,7 @@
 ## Hi there 👋
+I am Anvit Aggarwal!
+
+- 🎓 Computer Science student at IIT Gandhinagar.
 
 <!--
 **AnvitAggarwal/AnvitAggarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
