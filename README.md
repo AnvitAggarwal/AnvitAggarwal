@@ -1,4 +1,4 @@
-## Hi, I am Anvit Aggarwal!
+## Hi! I am Anvit Aggarwal.
 
 - 🎓 Computer Science student at IIT Gandhinagar
 - 🛠️ Skilled in Python
