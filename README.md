@@ -6,4 +6,4 @@
 ### Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/anvit-aggarwal-b65426313/)
 
-![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=AnvitAggarwal)
+<!-- ![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=AnvitAggarwal) -->
